@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src=""C:\Users\hrithika.c\Downloads\profile.png"" width="200" style="border-radius:50%;" />
+  <img src="C:\Users\hrithika.c\Downloads\profile.png" width="200" style="border-radius:50%;" />
 </p>
 
 ---
