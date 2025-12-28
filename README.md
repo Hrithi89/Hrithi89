@@ -2,13 +2,6 @@
 <h3 align="center">📊 Data Science & Data Analysis Enthusiast</h3>
 
 ---
-<p align="center">
-  <img src="profile.png" width="200">
-</p>
-
-
-
----
 ## 👩‍💻 About Me
 
 ✨ Hi there! I'm **Hrithika C**, an MCA student with a strong passion for **Data Analysis and Data Science**.  
