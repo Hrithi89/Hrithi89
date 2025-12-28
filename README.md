@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Hrithika's profile 👋</h1>
-<h3 align="center">📊 Data Science & Data Analysis Enthusiast</h3>
+<h3 align="center">📊 Data Engineering & Data Analysis Enthusiast</h3>
 
 ---
 ## 👩‍💻 About Me
