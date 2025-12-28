@@ -2,7 +2,10 @@
 <h3 align="center">📊 Data Science & Data Analysis Enthusiast</h3>
 
 ---
-![image](https://github.com/Hrithi89/Hrithi89/blob/main/profile.png)
+<p align="center">
+  <img src="profile.png" width="200">
+</p>
+
 
 
 ---
