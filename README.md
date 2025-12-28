@@ -2,9 +2,8 @@
 <h3 align="center">📊 Data Science & Data Analysis Enthusiast</h3>
 
 ---
-<p align="center">
-  <img src="profile.png" width="200" style="border-radius:50%;" />
-</p>
+![image](https://github.com/Hrithi89/Hrithi89/blob/main/profile.png)
+
 
 ---
 ## 👩‍💻 About Me
