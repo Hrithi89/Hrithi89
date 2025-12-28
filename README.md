@@ -46,7 +46,7 @@ I enjoy working with data to uncover patterns, trends, and insights that support
   <a href="https://github.com/Hrithi89">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/hrithika-c-417197251">
+  <a href="https://linkedin.com/in/hrithika-c-417197251">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
