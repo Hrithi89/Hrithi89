@@ -33,13 +33,9 @@ I enjoy working with data to uncover patterns, trends, and insights that support
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrithi89&show_icons=true&theme=dark" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrithi89&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithi89&theme=dark" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hrithi89&theme=dark)
 
 ---
 
