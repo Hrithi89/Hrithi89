@@ -31,14 +31,6 @@ I enjoy working with data to uncover patterns, trends, and insights that support
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrithi89&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hrithi89&theme=dark)
-
----
-
 ## 📌 Featured Focus Areas
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Preprocessing
